@@ -1,20 +1,20 @@
-### New York Citi Bike Data Analysis
+# New York Citi Bike Data Analysis
 
 This project is dedicated to the New York Citi Bike sharing program. The data which is collected end renewed monthly, can be found here: [Citi Bike Data](https://www.citibikenyc.com/system-data).
 
 **There are two datasets that were used in the analysis**
-1. Ride Data from New Jersey (January 01 2017 - June 30 2018), a light dataset for the tests.
+1. Ride Data from New Jersey (September 21 2015 - June 30 2018), a light dataset for the tests.
 2. Ride Data from New York (July 20 2017 - June 30 2018), a Public version of Tableau has a limit of 15 millions rows for a single dataset, therefore this dataset has a smaller time span.
 
-***Tableau Dashboards can be found here:***
-1. New Jersey - https://public.tableau.com/profile/sofia.smirnova#!/vizhome/JCCitiBike/Overview
-2. New York - https://public.tableau.com/profile/sofia.smirnova#!/vizhome/NYcitibike/Overview
+**Tableau Dashboards can be found here:**
+1. New Jersey - https://public.tableau.com/profile/sofia.smirnova#!/vizhome/JC_Citi_Bike/Overview
+2. New York - https://public.tableau.com/profile/sofia.smirnova#!/vizhome/NY_Citi_Bike/Overview
 
 Both Dashboards are almost identical, except the loading speed and data by itself.
 
 ## Tableau workbook description
 
-# Overview dashboard:
+### Overview dashboard:
 
 * Time period can be choosen with the range of dates.
 
@@ -40,7 +40,7 @@ Both Dashboards are almost identical, except the loading speed and data by itsel
 
 * Top and bottom 10 station for outgoing trips.
 
-# Single bike dashboard:
+### Single bike dashboard:
 
 * Gives an information about a particular bike.
 
@@ -54,7 +54,7 @@ Both Dashboards are almost identical, except the loading speed and data by itsel
 
 * Trips by duration.
 
-# Other sheets:
+### Other sheets:
 
 * Map with outgoing trips.
 
